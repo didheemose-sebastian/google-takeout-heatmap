@@ -1,0 +1,3910 @@
+{
+  "semanticSegments": [
+    {
+      "startTime": "2025-07-07T14:44:06.000+01:00",
+      "endTime": "2025-07-07T17:51:06.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.9677278995513916,
+        "topCandidate": {
+          "placeId": "ChIJT5JscAgIZ0gRqNJjncgjIRA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.5790401101112366,
+          "placeLocation": {
+            "latLng": "53.244338°, -6.1393488°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-07T17:53:42.000+01:00",
+      "endTime": "2025-07-07T20:19:55.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.9677278995513916,
+        "topCandidate": {
+          "placeId": "ChIJp-U3uwgIZ0gRS3SzyTBzUE0",
+          "semanticType": "UNKNOWN",
+          "probability": 0.8473948240280151,
+          "placeLocation": {
+            "latLng": "53.2440249°, -6.1391418°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-07T19:00:00.000+01:00",
+      "endTime": "2025-07-07T21:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2443956°, -6.1391473°",
+          "time": "2025-07-07T20:20:00.000+01:00"
+        },
+        {
+          "point": "53.2426805°, -6.1418742°",
+          "time": "2025-07-07T20:25:00.000+01:00"
+        },
+        {
+          "point": "53.2451759°, -6.1454781°",
+          "time": "2025-07-07T20:36:00.000+01:00"
+        },
+        {
+          "point": "53.2454452°, -6.1454734°",
+          "time": "2025-07-07T20:43:00.000+01:00"
+        },
+        {
+          "point": "53.2454951°, -6.1453785°",
+          "time": "2025-07-07T20:48:00.000+01:00"
+        },
+        {
+          "point": "53.2455968°, -6.1460022°",
+          "time": "2025-07-07T20:52:00.000+01:00"
+        },
+        {
+          "point": "53.2550528°, -6.1843918°",
+          "time": "2025-07-07T20:58:00.000+01:00"
+        },
+        {
+          "point": "53.2564045°, -6.1929754°",
+          "time": "2025-07-07T20:59:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-07T20:19:55.000+01:00",
+      "endTime": "2025-07-07T20:36:02.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2426805°, -6.1418742°"
+        },
+        "end": {
+          "latLng": "53.2425273°, -6.1429997°"
+        },
+        "distanceMeters": 157.279541015625,
+        "probability": 0.6695948839187622,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.630064070224762
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-07T20:36:02.000+01:00",
+      "endTime": "2025-07-07T20:52:00.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8759528398513794,
+        "topCandidate": {
+          "placeId": "ChIJh4FKyA8IZ0gRVCIHfKuBBTA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.4773072898387909,
+          "placeLocation": {
+            "latLng": "53.245399°, -6.145897°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-07T20:52:00.000+01:00",
+      "endTime": "2025-07-07T21:03:04.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2455968°, -6.1460022°"
+        },
+        "end": {
+          "latLng": "53.260547°, -6.2063267°"
+        },
+        "distanceMeters": 4405.59228515625,
+        "probability": 0.9965125322341919,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.8655378222465515
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-07T21:00:00.000+01:00",
+      "endTime": "2025-07-07T23:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.260547°, -6.2063267°",
+          "time": "2025-07-07T21:03:00.000+01:00"
+        },
+        {
+          "point": "53.2602944°, -6.2075139°",
+          "time": "2025-07-07T21:08:00.000+01:00"
+        },
+        {
+          "point": "53.2602793°, -6.2072958°",
+          "time": "2025-07-07T21:19:00.000+01:00"
+        },
+        {
+          "point": "53.2602753°, -6.2072811°",
+          "time": "2025-07-07T21:21:00.000+01:00"
+        },
+        {
+          "point": "53.2602951°, -6.2073344°",
+          "time": "2025-07-07T21:32:00.000+01:00"
+        },
+        {
+          "point": "53.2602773°, -6.2072832°",
+          "time": "2025-07-07T21:35:00.000+01:00"
+        },
+        {
+          "point": "53.260296°, -6.2075122°",
+          "time": "2025-07-07T21:39:00.000+01:00"
+        },
+        {
+          "point": "53.2602899°, -6.20752°",
+          "time": "2025-07-07T21:46:00.000+01:00"
+        },
+        {
+          "point": "53.2602966°, -6.2075113°",
+          "time": "2025-07-07T21:51:00.000+01:00"
+        },
+        {
+          "point": "53.2602899°, -6.2075244°",
+          "time": "2025-07-07T22:04:00.000+01:00"
+        },
+        {
+          "point": "53.2602899°, -6.2075244°",
+          "time": "2025-07-07T22:14:00.000+01:00"
+        },
+        {
+          "point": "53.2602899°, -6.2075244°",
+          "time": "2025-07-07T22:24:00.000+01:00"
+        },
+        {
+          "point": "53.2602886°, -6.207528°",
+          "time": "2025-07-07T22:36:00.000+01:00"
+        },
+        {
+          "point": "53.2602886°, -6.207528°",
+          "time": "2025-07-07T22:41:00.000+01:00"
+        },
+        {
+          "point": "53.2602949°, -6.2075253°",
+          "time": "2025-07-07T22:45:00.000+01:00"
+        },
+        {
+          "point": "53.2602939°, -6.2075113°",
+          "time": "2025-07-07T22:55:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-07T21:03:04.000+01:00",
+      "endTime": "2025-07-08T12:47:20.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9368703961372375,
+        "topCandidate": {
+          "placeId": "ChIJEbJjzz4JZ0gR8KI639gRVLg",
+          "semanticType": "INFERRED_HOME",
+          "probability": 0.5335861444473267,
+          "placeLocation": {
+            "latLng": "53.2603683°, -6.2073798°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-07T23:00:00.000+01:00",
+      "endTime": "2025-07-08T01:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602921°, -6.2075144°",
+          "time": "2025-07-07T23:05:00.000+01:00"
+        },
+        {
+          "point": "53.2602921°, -6.2075144°",
+          "time": "2025-07-07T23:16:00.000+01:00"
+        },
+        {
+          "point": "53.2602921°, -6.2075144°",
+          "time": "2025-07-07T23:30:00.000+01:00"
+        },
+        {
+          "point": "53.2602921°, -6.2075144°",
+          "time": "2025-07-07T23:44:00.000+01:00"
+        },
+        {
+          "point": "53.2602921°, -6.2075144°",
+          "time": "2025-07-07T23:55:00.000+01:00"
+        },
+        {
+          "point": "53.2602921°, -6.2075144°",
+          "time": "2025-07-08T00:07:00.000+01:00"
+        },
+        {
+          "point": "53.2602921°, -6.2075144°",
+          "time": "2025-07-08T00:18:00.000+01:00"
+        },
+        {
+          "point": "53.2602921°, -6.2075144°",
+          "time": "2025-07-08T00:29:00.000+01:00"
+        },
+        {
+          "point": "53.260292°, -6.2075167°",
+          "time": "2025-07-08T00:47:00.000+01:00"
+        },
+        {
+          "point": "53.2602874°, -6.2075113°",
+          "time": "2025-07-08T01:00:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-08T01:00:00.000+01:00",
+      "endTime": "2025-07-08T03:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602862°, -6.2075094°",
+          "time": "2025-07-08T01:06:00.000+01:00"
+        },
+        {
+          "point": "53.2602862°, -6.2075094°",
+          "time": "2025-07-08T01:11:00.000+01:00"
+        },
+        {
+          "point": "53.2602799°, -6.2072955°",
+          "time": "2025-07-08T01:13:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-08T07:00:00.000+01:00",
+      "endTime": "2025-07-08T09:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602789°, -6.2072889°",
+          "time": "2025-07-08T08:42:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-08T11:00:00.000+01:00",
+      "endTime": "2025-07-08T13:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2605055°, -6.2063069°",
+          "time": "2025-07-08T12:47:00.000+01:00"
+        },
+        {
+          "point": "53.2603272°, -6.2040895°",
+          "time": "2025-07-08T12:55:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-08T12:47:20.000+01:00",
+      "endTime": "2025-07-08T12:55:20.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2605055°, -6.2063069°"
+        },
+        "end": {
+          "latLng": "53.261175°, -6.2061842°"
+        },
+        "distanceMeters": 306.5561218261719,
+        "probability": 0.8567885756492615,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.8329682350158691
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T12:55:20.000+01:00",
+      "endTime": "2025-07-08T13:05:21.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2603272°, -6.2040895°"
+        },
+        "end": {
+          "latLng": "53.2429829°, -6.1420906°"
+        },
+        "distanceMeters": 4770.17333984375,
+        "probability": 0.9983830451965332,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.9111617207527161
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T13:00:00.000+01:00",
+      "endTime": "2025-07-08T15:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2504814°, -6.1547208°",
+          "time": "2025-07-08T13:03:00.000+01:00"
+        },
+        {
+          "point": "53.2429829°, -6.1420906°",
+          "time": "2025-07-08T13:05:00.000+01:00"
+        },
+        {
+          "point": "53.2439757°, -6.1391711°",
+          "time": "2025-07-08T13:12:00.000+01:00"
+        },
+        {
+          "point": "53.2442921°, -6.1392802°",
+          "time": "2025-07-08T13:17:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-08T13:05:21.000+01:00",
+      "endTime": "2025-07-08T13:17:16.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2429829°, -6.1420906°"
+        },
+        "end": {
+          "latLng": "53.2439757°, -6.1391711°"
+        },
+        "distanceMeters": 571.5482177734375,
+        "probability": 0.9496103525161743,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.869388222694397
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T13:17:16.000+01:00",
+      "endTime": "2025-07-08T19:31:37.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.986169695854187,
+        "topCandidate": {
+          "placeId": "ChIJBfKEWAgIZ0gR_zyIomkREkM",
+          "semanticType": "UNKNOWN",
+          "probability": 0.8833868503570557,
+          "placeLocation": {
+            "latLng": "53.2444708°, -6.1396347°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T13:17:16.000+01:00",
+      "endTime": "2025-07-08T14:46:49.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.986169695854187,
+        "topCandidate": {
+          "placeId": "ChIJT5JscAgIZ0gRqNJjncgjIRA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.6443378925323486,
+          "placeLocation": {
+            "latLng": "53.244338°, -6.1393488°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T14:52:45.000+01:00",
+      "endTime": "2025-07-08T14:59:45.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.986169695854187,
+        "topCandidate": {
+          "placeId": "ChIJp-U3uwgIZ0gRS3SzyTBzUE0",
+          "semanticType": "UNKNOWN",
+          "probability": 0.5784673690795898,
+          "placeLocation": {
+            "latLng": "53.2440249°, -6.1391418°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T15:06:42.000+01:00",
+      "endTime": "2025-07-08T17:50:29.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.986169695854187,
+        "topCandidate": {
+          "placeId": "ChIJT5JscAgIZ0gRqNJjncgjIRA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.6279265284538269,
+          "placeLocation": {
+            "latLng": "53.244338°, -6.1393488°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T17:57:02.000+01:00",
+      "endTime": "2025-07-08T19:31:37.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.986169695854187,
+        "topCandidate": {
+          "placeId": "ChIJp-U3uwgIZ0gRS3SzyTBzUE0",
+          "semanticType": "UNKNOWN",
+          "probability": 0.9168649911880493,
+          "placeLocation": {
+            "latLng": "53.2440249°, -6.1391418°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T19:00:00.000+01:00",
+      "endTime": "2025-07-08T21:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2443892°, -6.1391479°",
+          "time": "2025-07-08T19:32:00.000+01:00"
+        },
+        {
+          "point": "53.2426551°, -6.1419215°",
+          "time": "2025-07-08T19:38:00.000+01:00"
+        },
+        {
+          "point": "53.2421243°, -6.1429603°",
+          "time": "2025-07-08T19:44:00.000+01:00"
+        },
+        {
+          "point": "53.250197°, -6.1539326°",
+          "time": "2025-07-08T19:47:00.000+01:00"
+        },
+        {
+          "point": "53.2581339°, -6.197861°",
+          "time": "2025-07-08T19:54:00.000+01:00"
+        },
+        {
+          "point": "53.2593413°, -6.1976126°",
+          "time": "2025-07-08T20:02:00.000+01:00"
+        },
+        {
+          "point": "53.2591352°, -6.1974801°",
+          "time": "2025-07-08T20:09:00.000+01:00"
+        },
+        {
+          "point": "53.2590374°, -6.1975275°",
+          "time": "2025-07-08T20:21:00.000+01:00"
+        },
+        {
+          "point": "53.2591401°, -6.1972608°",
+          "time": "2025-07-08T20:28:00.000+01:00"
+        },
+        {
+          "point": "53.2592485°, -6.197328°",
+          "time": "2025-07-08T20:32:00.000+01:00"
+        },
+        {
+          "point": "53.2582705°, -6.1975774°",
+          "time": "2025-07-08T20:36:00.000+01:00"
+        },
+        {
+          "point": "53.2582492°, -6.1976913°",
+          "time": "2025-07-08T20:37:00.000+01:00"
+        },
+        {
+          "point": "53.2609207°, -6.2056937°",
+          "time": "2025-07-08T20:39:00.000+01:00"
+        },
+        {
+          "point": "53.260301°, -6.2075372°",
+          "time": "2025-07-08T20:50:00.000+01:00"
+        },
+        {
+          "point": "53.2603046°, -6.2075354°",
+          "time": "2025-07-08T20:58:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-08T19:31:37.000+01:00",
+      "endTime": "2025-07-08T19:37:40.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2443892°, -6.1391479°"
+        },
+        "end": {
+          "latLng": "53.2434761°, -6.1404723°"
+        },
+        "distanceMeters": 134.44314575195312,
+        "probability": 0.9616534113883972,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.9311730265617371
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T19:37:40.000+01:00",
+      "endTime": "2025-07-08T19:44:02.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.6679953336715698,
+        "topCandidate": {
+          "placeId": "ChIJvxGFoQUIZ0gRf6H8XLeB5HY",
+          "semanticType": "UNKNOWN",
+          "probability": 0.5974712371826172,
+          "placeLocation": {
+            "latLng": "53.241871°, -6.142843°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T19:44:02.000+01:00",
+      "endTime": "2025-07-08T19:53:43.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2421243°, -6.1429603°"
+        },
+        "end": {
+          "latLng": "53.2581339°, -6.197861°"
+        },
+        "distanceMeters": 4231.9404296875,
+        "probability": 0.9990129470825195,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.9425532817840576
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T19:53:43.000+01:00",
+      "endTime": "2025-07-08T20:37:00.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.7609150409698486,
+        "topCandidate": {
+          "placeId": "ChIJC52Aq7MJZ0gRPImsWfjf-ks",
+          "semanticType": "UNKNOWN",
+          "probability": 0.8860595226287842,
+          "placeLocation": {
+            "latLng": "53.2592726°, -6.1968808°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T19:53:43.000+01:00",
+      "endTime": "2025-07-08T20:37:00.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.7609150409698486,
+        "topCandidate": {
+          "placeId": "ChIJnV08tLMJZ0gRkXILWzwLPuM",
+          "semanticType": "UNKNOWN",
+          "probability": 0.9807198643684387,
+          "placeLocation": {
+            "latLng": "53.2591361°, -6.1973242°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T20:37:00.000+01:00",
+      "endTime": "2025-07-08T20:39:01.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2582492°, -6.1976913°"
+        },
+        "end": {
+          "latLng": "53.2609207°, -6.2056937°"
+        },
+        "distanceMeters": 609.5672607421875,
+        "probability": 0.9991263151168823,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.8554312586784363
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T20:39:01.000+01:00",
+      "endTime": "2025-07-09T12:35:37.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9440156817436218,
+        "topCandidate": {
+          "placeId": "ChIJEbJjzz4JZ0gR8KI639gRVLg",
+          "semanticType": "INFERRED_HOME",
+          "probability": 0.5224843621253967,
+          "placeLocation": {
+            "latLng": "53.2603683°, -6.2073798°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-08T21:00:00.000+01:00",
+      "endTime": "2025-07-08T23:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2603024°, -6.2075423°",
+          "time": "2025-07-08T21:23:00.000+01:00"
+        },
+        {
+          "point": "53.260293°, -6.2075119°",
+          "time": "2025-07-08T21:30:00.000+01:00"
+        },
+        {
+          "point": "53.2603039°, -6.207537°",
+          "time": "2025-07-08T21:48:00.000+01:00"
+        },
+        {
+          "point": "53.2603039°, -6.207537°",
+          "time": "2025-07-08T21:58:00.000+01:00"
+        },
+        {
+          "point": "53.2603039°, -6.207537°",
+          "time": "2025-07-08T22:14:00.000+01:00"
+        },
+        {
+          "point": "53.2603039°, -6.207537°",
+          "time": "2025-07-08T22:29:00.000+01:00"
+        },
+        {
+          "point": "53.2603039°, -6.207537°",
+          "time": "2025-07-08T22:32:00.000+01:00"
+        },
+        {
+          "point": "53.2602969°, -6.2075125°",
+          "time": "2025-07-08T22:47:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-08T23:00:00.000+01:00",
+      "endTime": "2025-07-09T01:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602969°, -6.2075125°",
+          "time": "2025-07-08T23:02:00.000+01:00"
+        },
+        {
+          "point": "53.2602801°, -6.2072933°",
+          "time": "2025-07-08T23:12:00.000+01:00"
+        },
+        {
+          "point": "53.2602777°, -6.2072791°",
+          "time": "2025-07-08T23:24:00.000+01:00"
+        },
+        {
+          "point": "53.260283°, -6.2073739°",
+          "time": "2025-07-08T23:35:00.000+01:00"
+        },
+        {
+          "point": "53.260274°, -6.2072898°",
+          "time": "2025-07-08T23:45:00.000+01:00"
+        },
+        {
+          "point": "53.2602789°, -6.2072953°",
+          "time": "2025-07-08T23:57:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-09T07:00:00.000+01:00",
+      "endTime": "2025-07-09T09:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602805°, -6.2073456°",
+          "time": "2025-07-09T07:18:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-09T11:00:00.000+01:00",
+      "endTime": "2025-07-09T13:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2609064°, -6.2065047°",
+          "time": "2025-07-09T12:36:00.000+01:00"
+        },
+        {
+          "point": "53.2608364°, -6.2049716°",
+          "time": "2025-07-09T12:43:00.000+01:00"
+        },
+        {
+          "point": "53.250348°, -6.1542944°",
+          "time": "2025-07-09T12:52:00.000+01:00"
+        },
+        {
+          "point": "53.2477897°, -6.1475839°",
+          "time": "2025-07-09T12:53:00.000+01:00"
+        },
+        {
+          "point": "53.2439878°, -6.1469276°",
+          "time": "2025-07-09T12:54:00.000+01:00"
+        },
+        {
+          "point": "53.2419634°, -6.1428507°",
+          "time": "2025-07-09T12:55:00.000+01:00"
+        },
+        {
+          "point": "53.2431491°, -6.1400996°",
+          "time": "2025-07-09T12:58:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-09T12:35:37.000+01:00",
+      "endTime": "2025-07-09T12:42:40.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2609064°, -6.2065047°"
+        },
+        "end": {
+          "latLng": "53.2608364°, -6.2049716°"
+        },
+        "distanceMeters": 598.6986083984375,
+        "probability": 0.8756831884384155,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.8196853399276733
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T12:42:40.000+01:00",
+      "endTime": "2025-07-09T12:54:47.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2608364°, -6.2049716°"
+        },
+        "end": {
+          "latLng": "53.2419634°, -6.1428507°"
+        },
+        "distanceMeters": 5359.3759765625,
+        "probability": 0.9981213212013245,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.9543959498405457
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T12:54:47.000+01:00",
+      "endTime": "2025-07-09T12:57:43.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2419634°, -6.1428507°"
+        },
+        "end": {
+          "latLng": "53.2431491°, -6.1400996°"
+        },
+        "distanceMeters": 273.4216003417969,
+        "probability": 0.9752572178840637,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.5011296272277832
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T12:57:43.000+01:00",
+      "endTime": "2025-07-09T17:46:56.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.961641788482666,
+        "topCandidate": {
+          "placeId": "ChIJBfKEWAgIZ0gR_zyIomkREkM",
+          "semanticType": "UNKNOWN",
+          "probability": 0.8659770488739014,
+          "placeLocation": {
+            "latLng": "53.2444708°, -6.1396347°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T12:58:54.000+01:00",
+      "endTime": "2025-07-09T13:04:31.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.961641788482666,
+        "topCandidate": {
+          "placeId": "ChIJp-U3uwgIZ0gRS3SzyTBzUE0",
+          "semanticType": "UNKNOWN",
+          "probability": 0.7150371670722961,
+          "placeLocation": {
+            "latLng": "53.2440249°, -6.1391418°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T13:05:03.000+01:00",
+      "endTime": "2025-07-09T15:03:37.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.961641788482666,
+        "topCandidate": {
+          "placeId": "ChIJT5JscAgIZ0gRqNJjncgjIRA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.6663276553153992,
+          "placeLocation": {
+            "latLng": "53.244338°, -6.1393488°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T15:14:42.000+01:00",
+      "endTime": "2025-07-09T15:49:47.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.961641788482666,
+        "topCandidate": {
+          "placeId": "ChIJp-U3uwgIZ0gRS3SzyTBzUE0",
+          "semanticType": "UNKNOWN",
+          "probability": 0.6894387006759644,
+          "placeLocation": {
+            "latLng": "53.2440249°, -6.1391418°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T15:59:47.000+01:00",
+      "endTime": "2025-07-09T17:00:14.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.961641788482666,
+        "topCandidate": {
+          "placeId": "ChIJT5JscAgIZ0gRqNJjncgjIRA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.7101151943206787,
+          "placeLocation": {
+            "latLng": "53.244338°, -6.1393488°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T17:00:00.000+01:00",
+      "endTime": "2025-07-09T19:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2440206°, -6.1390288°",
+          "time": "2025-07-09T17:47:00.000+01:00"
+        },
+        {
+          "point": "53.2423961°, -6.1428283°",
+          "time": "2025-07-09T17:52:00.000+01:00"
+        },
+        {
+          "point": "53.2423339°, -6.1430071°",
+          "time": "2025-07-09T18:02:00.000+01:00"
+        },
+        {
+          "point": "53.2476045°, -6.1475478°",
+          "time": "2025-07-09T18:05:00.000+01:00"
+        },
+        {
+          "point": "53.2558754°, -6.1771567°",
+          "time": "2025-07-09T18:10:00.000+01:00"
+        },
+        {
+          "point": "53.2549919°, -6.1845837°",
+          "time": "2025-07-09T18:11:00.000+01:00"
+        },
+        {
+          "point": "53.2634526°, -6.2108145°",
+          "time": "2025-07-09T18:16:00.000+01:00"
+        },
+        {
+          "point": "53.266634°, -6.2095974°",
+          "time": "2025-07-09T18:17:00.000+01:00"
+        },
+        {
+          "point": "53.2730484°, -6.2013441°",
+          "time": "2025-07-09T18:20:00.000+01:00"
+        },
+        {
+          "point": "53.2768985°, -6.2048541°",
+          "time": "2025-07-09T18:26:00.000+01:00"
+        },
+        {
+          "point": "53.2764488°, -6.2032464°",
+          "time": "2025-07-09T18:38:00.000+01:00"
+        },
+        {
+          "point": "53.2646493°, -6.2107897°",
+          "time": "2025-07-09T18:43:00.000+01:00"
+        },
+        {
+          "point": "53.2606223°, -6.2062963°",
+          "time": "2025-07-09T18:46:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-09T17:06:09.000+01:00",
+      "endTime": "2025-07-09T17:10:43.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.961641788482666,
+        "topCandidate": {
+          "placeId": "ChIJp-U3uwgIZ0gRS3SzyTBzUE0",
+          "semanticType": "UNKNOWN",
+          "probability": 0.638738751411438,
+          "placeLocation": {
+            "latLng": "53.2440249°, -6.1391418°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T17:40:49.000+01:00",
+      "endTime": "2025-07-09T17:46:56.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.961641788482666,
+        "topCandidate": {
+          "placeId": "ChIJT5JscAgIZ0gRqNJjncgjIRA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.6839004755020142,
+          "placeLocation": {
+            "latLng": "53.244338°, -6.1393488°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T17:46:56.000+01:00",
+      "endTime": "2025-07-09T17:51:57.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2440206°, -6.1390288°"
+        },
+        "end": {
+          "latLng": "53.2423961°, -6.1428283°"
+        },
+        "distanceMeters": 312.15191650390625,
+        "probability": 0.9967691898345947,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.9833407998085022
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T17:51:57.000+01:00",
+      "endTime": "2025-07-09T18:02:19.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.844305694103241,
+        "topCandidate": {
+          "placeId": "ChIJvxGFoQUIZ0gRf6H8XLeB5HY",
+          "semanticType": "UNKNOWN",
+          "probability": 0.4800032377243042,
+          "placeLocation": {
+            "latLng": "53.241871°, -6.142843°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T18:02:19.000+01:00",
+      "endTime": "2025-07-09T18:26:29.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2423339°, -6.1430071°"
+        },
+        "end": {
+          "latLng": "53.2730484°, -6.2013441°"
+        },
+        "distanceMeters": 6618.533203125,
+        "probability": 0.9989914298057556,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.951892077922821
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T18:26:29.000+01:00",
+      "endTime": "2025-07-09T18:38:08.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.7920958995819092,
+        "topCandidate": {
+          "placeId": "ChIJC6vcII8JZ0gR0iC9XdDsWw4",
+          "semanticType": "UNKNOWN",
+          "probability": 0.6574261784553528,
+          "placeLocation": {
+            "latLng": "53.2770009°, -6.20481°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T18:38:08.000+01:00",
+      "endTime": "2025-07-09T18:45:46.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2764488°, -6.2032464°"
+        },
+        "end": {
+          "latLng": "53.2606223°, -6.2062963°"
+        },
+        "distanceMeters": 1943.0230712890625,
+        "probability": 0.9985592365264893,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.7954967021942139
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T18:45:46.000+01:00",
+      "endTime": "2025-07-10T13:24:35.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9688922166824341,
+        "topCandidate": {
+          "placeId": "ChIJEbJjzz4JZ0gR8KI639gRVLg",
+          "semanticType": "INFERRED_HOME",
+          "probability": 0.5370926260948181,
+          "placeLocation": {
+            "latLng": "53.2603683°, -6.2073798°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-09T19:00:00.000+01:00",
+      "endTime": "2025-07-09T21:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602903°, -6.2075153°",
+          "time": "2025-07-09T20:42:00.000+01:00"
+        },
+        {
+          "point": "53.2602903°, -6.2075153°",
+          "time": "2025-07-09T20:54:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-09T21:00:00.000+01:00",
+      "endTime": "2025-07-09T23:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602903°, -6.2075153°",
+          "time": "2025-07-09T21:07:00.000+01:00"
+        },
+        {
+          "point": "53.2602892°, -6.2075066°",
+          "time": "2025-07-09T21:18:00.000+01:00"
+        },
+        {
+          "point": "53.2603005°, -6.2074999°",
+          "time": "2025-07-09T21:29:00.000+01:00"
+        },
+        {
+          "point": "53.2603005°, -6.2074999°",
+          "time": "2025-07-09T21:40:00.000+01:00"
+        },
+        {
+          "point": "53.2603005°, -6.2074999°",
+          "time": "2025-07-09T21:50:00.000+01:00"
+        },
+        {
+          "point": "53.2602879°, -6.2075055°",
+          "time": "2025-07-09T21:57:00.000+01:00"
+        },
+        {
+          "point": "53.2602852°, -6.2073586°",
+          "time": "2025-07-09T22:04:00.000+01:00"
+        },
+        {
+          "point": "53.2602852°, -6.2073586°",
+          "time": "2025-07-09T22:10:00.000+01:00"
+        },
+        {
+          "point": "53.2602627°, -6.2073924°",
+          "time": "2025-07-09T22:20:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-10T07:00:00.000+01:00",
+      "endTime": "2025-07-10T09:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602779°, -6.2072779°",
+          "time": "2025-07-10T08:30:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-10T13:00:00.000+01:00",
+      "endTime": "2025-07-10T15:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602942°, -6.2075063°",
+          "time": "2025-07-10T13:25:00.000+01:00"
+        },
+        {
+          "point": "53.2616263°, -6.2077039°",
+          "time": "2025-07-10T13:28:00.000+01:00"
+        },
+        {
+          "point": "53.2671561°, -6.2092506°",
+          "time": "2025-07-10T13:30:00.000+01:00"
+        },
+        {
+          "point": "53.2700413°, -6.2039352°",
+          "time": "2025-07-10T13:31:00.000+01:00"
+        },
+        {
+          "point": "53.2793016°, -6.2098203°",
+          "time": "2025-07-10T13:36:00.000+01:00"
+        },
+        {
+          "point": "53.286042°, -6.2365148°",
+          "time": "2025-07-10T13:39:00.000+01:00"
+        },
+        {
+          "point": "53.2969103°, -6.2493965°",
+          "time": "2025-07-10T13:41:00.000+01:00"
+        },
+        {
+          "point": "53.3291272°, -6.2573039°",
+          "time": "2025-07-10T13:49:00.000+01:00"
+        },
+        {
+          "point": "53.3324606°, -6.2603629°",
+          "time": "2025-07-10T13:51:00.000+01:00"
+        },
+        {
+          "point": "53.3391669°, -6.2613972°",
+          "time": "2025-07-10T13:55:00.000+01:00"
+        },
+        {
+          "point": "53.3418969°, -6.258043°",
+          "time": "2025-07-10T13:57:00.000+01:00"
+        },
+        {
+          "point": "53.3455913°, -6.2589865°",
+          "time": "2025-07-10T14:00:00.000+01:00"
+        },
+        {
+          "point": "53.3475142°, -6.2571589°",
+          "time": "2025-07-10T14:06:00.000+01:00"
+        },
+        {
+          "point": "53.3482234°, -6.2552206°",
+          "time": "2025-07-10T14:17:00.000+01:00"
+        },
+        {
+          "point": "53.349503°, -6.2521979°",
+          "time": "2025-07-10T14:18:00.000+01:00"
+        },
+        {
+          "point": "53.3603439°, -6.2394684°",
+          "time": "2025-07-10T14:24:00.000+01:00"
+        },
+        {
+          "point": "53.3640134°, -6.2332876°",
+          "time": "2025-07-10T14:27:00.000+01:00"
+        },
+        {
+          "point": "53.3830603°, -6.2055092°",
+          "time": "2025-07-10T14:42:00.000+01:00"
+        },
+        {
+          "point": "53.3896399°, -6.1975008°",
+          "time": "2025-07-10T14:45:00.000+01:00"
+        },
+        {
+          "point": "53.3907279°, -6.198088°",
+          "time": "2025-07-10T14:48:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-10T13:24:35.000+01:00",
+      "endTime": "2025-07-10T13:27:39.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2602942°, -6.2075063°"
+        },
+        "end": {
+          "latLng": "53.2616263°, -6.2077039°"
+        },
+        "distanceMeters": 265.4137878417969,
+        "probability": 0.956809937953949,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.6440255641937256
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T13:27:39.000+01:00",
+      "endTime": "2025-07-10T13:59:31.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2616263°, -6.2077039°"
+        },
+        "end": {
+          "latLng": "53.3455913°, -6.2589865°"
+        },
+        "distanceMeters": 11275.908203125,
+        "probability": 0.9990221261978149,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.9283012747764587
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T13:59:31.000+01:00",
+      "endTime": "2025-07-10T14:06:18.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3455913°, -6.2589865°"
+        },
+        "end": {
+          "latLng": "53.3475142°, -6.2571589°"
+        },
+        "distanceMeters": 245.83645629882812,
+        "probability": 0.8818230628967285,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.7929407954216003
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T14:06:18.000+01:00",
+      "endTime": "2025-07-10T14:16:38.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8802291750907898,
+        "topCandidate": {
+          "placeId": "ChIJ_49Lq4UOZ0gRT1gNAR4XfgE",
+          "semanticType": "UNKNOWN",
+          "probability": 0.17460249364376068,
+          "placeLocation": {
+            "latLng": "53.348591°, -6.258494°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T14:16:38.000+01:00",
+      "endTime": "2025-07-10T14:45:01.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3482234°, -6.2552206°"
+        },
+        "end": {
+          "latLng": "53.3896399°, -6.1975008°"
+        },
+        "distanceMeters": 6058.1953125,
+        "probability": 0.9959695935249329,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.970543384552002
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T14:45:01.000+01:00",
+      "endTime": "2025-07-10T14:47:57.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3896399°, -6.1975008°"
+        },
+        "end": {
+          "latLng": "53.3907279°, -6.198088°"
+        },
+        "distanceMeters": 517.9998168945312,
+        "probability": 0.9643552303314209,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.7043744325637817
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T14:47:57.000+01:00",
+      "endTime": "2025-07-10T20:39:54.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9226967692375183,
+        "topCandidate": {
+          "placeId": "ChIJccNmklAOZ0gREQMI8rnm9Fs",
+          "semanticType": "INFERRED_WORK",
+          "probability": 0.398014098405838,
+          "placeLocation": {
+            "latLng": "53.3916595°, -6.1995935°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T15:00:00.000+01:00",
+      "endTime": "2025-07-10T17:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.3924029°, -6.2005933°",
+          "time": "2025-07-10T16:50:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-10T17:00:00.000+01:00",
+      "endTime": "2025-07-10T19:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.3914967°, -6.2061069°",
+          "time": "2025-07-10T17:12:00.000+01:00"
+        },
+        {
+          "point": "53.392394°, -6.2008309°",
+          "time": "2025-07-10T17:29:00.000+01:00"
+        },
+        {
+          "point": "53.3914967°, -6.2061069°",
+          "time": "2025-07-10T17:34:00.000+01:00"
+        },
+        {
+          "point": "53.3905936°, -6.1992043°",
+          "time": "2025-07-10T17:59:00.000+01:00"
+        },
+        {
+          "point": "53.3906652°, -6.1989383°",
+          "time": "2025-07-10T18:36:00.000+01:00"
+        },
+        {
+          "point": "53.3906922°, -6.1988716°",
+          "time": "2025-07-10T18:46:00.000+01:00"
+        },
+        {
+          "point": "53.3906908°, -6.1991061°",
+          "time": "2025-07-10T18:58:00.000+01:00"
+        },
+        {
+          "point": "53.3906875°, -6.1989061°",
+          "time": "2025-07-10T18:59:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-10T19:00:00.000+01:00",
+      "endTime": "2025-07-10T21:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.3904436°, -6.1990852°",
+          "time": "2025-07-10T19:08:00.000+01:00"
+        },
+        {
+          "point": "53.3899175°, -6.1973976°",
+          "time": "2025-07-10T19:13:00.000+01:00"
+        },
+        {
+          "point": "53.3907403°, -6.1998163°",
+          "time": "2025-07-10T20:40:00.000+01:00"
+        },
+        {
+          "point": "53.3908458°, -6.1965988°",
+          "time": "2025-07-10T20:43:00.000+01:00"
+        },
+        {
+          "point": "53.3810619°, -6.2083116°",
+          "time": "2025-07-10T20:48:00.000+01:00"
+        },
+        {
+          "point": "53.3549195°, -6.2464217°",
+          "time": "2025-07-10T21:00:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-10T20:39:54.000+01:00",
+      "endTime": "2025-07-10T20:43:03.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3907403°, -6.1998163°"
+        },
+        "end": {
+          "latLng": "53.3908458°, -6.1965988°"
+        },
+        "distanceMeters": 224.68211364746094,
+        "probability": 0.9874662756919861,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.6429967880249023
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T20:43:03.000+01:00",
+      "endTime": "2025-07-10T21:05:35.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3908458°, -6.1965988°"
+        },
+        "end": {
+          "latLng": "53.3480532°, -6.2563596°"
+        },
+        "distanceMeters": 6709.494140625,
+        "probability": 0.9932117462158203,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.8781724572181702
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T21:00:00.000+01:00",
+      "endTime": "2025-07-10T23:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.3480532°, -6.2563596°",
+          "time": "2025-07-10T21:06:00.000+01:00"
+        },
+        {
+          "point": "53.3490164°, -6.2576514°",
+          "time": "2025-07-10T21:13:00.000+01:00"
+        },
+        {
+          "point": "53.3461769°, -6.2570726°",
+          "time": "2025-07-10T21:14:00.000+01:00"
+        },
+        {
+          "point": "53.3435177°, -6.2591634°",
+          "time": "2025-07-10T21:16:00.000+01:00"
+        },
+        {
+          "point": "53.3430857°, -6.2586267°",
+          "time": "2025-07-10T21:18:00.000+01:00"
+        },
+        {
+          "point": "53.3371275°, -6.2628583°",
+          "time": "2025-07-10T21:27:00.000+01:00"
+        },
+        {
+          "point": "53.3263047°, -6.2560944°",
+          "time": "2025-07-10T21:28:00.000+01:00"
+        },
+        {
+          "point": "53.2867288°, -6.2376925°",
+          "time": "2025-07-10T21:37:00.000+01:00"
+        },
+        {
+          "point": "53.2793084°, -6.2097051°",
+          "time": "2025-07-10T21:41:00.000+01:00"
+        },
+        {
+          "point": "53.279309°, -6.2097078°",
+          "time": "2025-07-10T21:45:00.000+01:00"
+        },
+        {
+          "point": "53.2684682°, -6.2057919°",
+          "time": "2025-07-10T21:49:00.000+01:00"
+        },
+        {
+          "point": "53.2646599°, -6.2107045°",
+          "time": "2025-07-10T21:50:00.000+01:00"
+        },
+        {
+          "point": "53.2605545°, -6.2066531°",
+          "time": "2025-07-10T21:54:00.000+01:00"
+        },
+        {
+          "point": "53.2602954°, -6.2075109°",
+          "time": "2025-07-10T22:01:00.000+01:00"
+        },
+        {
+          "point": "53.2602941°, -6.2075182°",
+          "time": "2025-07-10T22:16:00.000+01:00"
+        },
+        {
+          "point": "53.2602941°, -6.2075182°",
+          "time": "2025-07-10T22:26:00.000+01:00"
+        },
+        {
+          "point": "53.2602941°, -6.2075182°",
+          "time": "2025-07-10T22:31:00.000+01:00"
+        },
+        {
+          "point": "53.2602874°, -6.2075076°",
+          "time": "2025-07-10T22:39:00.000+01:00"
+        },
+        {
+          "point": "53.260284°, -6.2073347°",
+          "time": "2025-07-10T22:44:00.000+01:00"
+        },
+        {
+          "point": "53.2602732°, -6.2073077°",
+          "time": "2025-07-10T22:56:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-10T21:05:35.000+01:00",
+      "endTime": "2025-07-10T21:12:38.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.803085207939148,
+        "topCandidate": {
+          "placeId": "ChIJjTZyuoUOZ0gRgmPwNiqKrEM",
+          "semanticType": "UNKNOWN",
+          "probability": 0.40076497197151184,
+          "placeLocation": {
+            "latLng": "53.349243°, -6.257731°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T21:12:38.000+01:00",
+      "endTime": "2025-07-10T21:53:30.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3490164°, -6.2576514°"
+        },
+        "end": {
+          "latLng": "53.2605501°, -6.2065899°"
+        },
+        "distanceMeters": 14106.498046875,
+        "probability": 0.9789076447486877,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.7292537689208984
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T21:53:30.000+01:00",
+      "endTime": "2025-07-11T13:29:03.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9429333209991455,
+        "topCandidate": {
+          "placeId": "ChIJEbJjzz4JZ0gR8KI639gRVLg",
+          "semanticType": "INFERRED_HOME",
+          "probability": 0.5047035217285156,
+          "placeLocation": {
+            "latLng": "53.2603683°, -6.2073798°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-10T23:00:00.000+01:00",
+      "endTime": "2025-07-11T01:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602769°, -6.2072804°",
+          "time": "2025-07-10T23:16:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072804°",
+          "time": "2025-07-10T23:27:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072804°",
+          "time": "2025-07-10T23:44:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072804°",
+          "time": "2025-07-11T00:00:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-11T01:00:00.000+01:00",
+      "endTime": "2025-07-11T03:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602769°, -6.2072804°",
+          "time": "2025-07-11T01:02:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-11T05:00:00.000+01:00",
+      "endTime": "2025-07-11T07:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602899°, -6.207511°",
+          "time": "2025-07-11T06:30:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-11T13:00:00.000+01:00",
+      "endTime": "2025-07-11T15:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602987°, -6.2072377°",
+          "time": "2025-07-11T13:29:00.000+01:00"
+        },
+        {
+          "point": "53.260803°, -6.2062857°",
+          "time": "2025-07-11T13:30:00.000+01:00"
+        },
+        {
+          "point": "53.2610989°, -6.2058808°",
+          "time": "2025-07-11T13:43:00.000+01:00"
+        },
+        {
+          "point": "53.2774932°, -6.2045945°",
+          "time": "2025-07-11T13:52:00.000+01:00"
+        },
+        {
+          "point": "53.2840397°, -6.2326115°",
+          "time": "2025-07-11T14:01:00.000+01:00"
+        },
+        {
+          "point": "53.2974555°, -6.2494823°",
+          "time": "2025-07-11T14:05:00.000+01:00"
+        },
+        {
+          "point": "53.308825°, -6.251554°",
+          "time": "2025-07-11T14:07:00.000+01:00"
+        },
+        {
+          "point": "53.3333511°, -6.2626306°",
+          "time": "2025-07-11T14:17:00.000+01:00"
+        },
+        {
+          "point": "53.3366425°, -6.2631926°",
+          "time": "2025-07-11T14:18:00.000+01:00"
+        },
+        {
+          "point": "53.342401°, -6.2578302°",
+          "time": "2025-07-11T14:22:00.000+01:00"
+        },
+        {
+          "point": "53.3446481°, -6.2596272°",
+          "time": "2025-07-11T14:24:00.000+01:00"
+        },
+        {
+          "point": "53.3476986°, -6.2589482°",
+          "time": "2025-07-11T14:27:00.000+01:00"
+        },
+        {
+          "point": "53.3482312°, -6.2557604°",
+          "time": "2025-07-11T14:33:00.000+01:00"
+        },
+        {
+          "point": "53.3501784°, -6.2501509°",
+          "time": "2025-07-11T14:36:00.000+01:00"
+        },
+        {
+          "point": "53.3619036°, -6.2375447°",
+          "time": "2025-07-11T14:43:00.000+01:00"
+        },
+        {
+          "point": "53.3643521°, -6.2308545°",
+          "time": "2025-07-11T14:47:00.000+01:00"
+        },
+        {
+          "point": "53.3720577°, -6.2227881°",
+          "time": "2025-07-11T14:52:00.000+01:00"
+        },
+        {
+          "point": "53.3830603°, -6.2055092°",
+          "time": "2025-07-11T14:59:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-11T13:29:03.000+01:00",
+      "endTime": "2025-07-11T13:30:13.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2602987°, -6.2072377°"
+        },
+        "end": {
+          "latLng": "53.260803°, -6.2062857°"
+        },
+        "distanceMeters": 85.2515869140625,
+        "probability": 0.9758921265602112,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.9142552018165588
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T13:30:13.000+01:00",
+      "endTime": "2025-07-11T13:43:04.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.5876363515853882,
+        "topCandidate": {
+          "placeId": "ChIJ18tcGrAJZ0gRjE006_zjcgI",
+          "semanticType": "UNKNOWN",
+          "probability": 0.5814856290817261,
+          "placeLocation": {
+            "latLng": "53.261063°, -6.205947°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T13:43:04.000+01:00",
+      "endTime": "2025-07-11T14:26:30.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2610989°, -6.2058808°"
+        },
+        "end": {
+          "latLng": "53.3476986°, -6.2589482°"
+        },
+        "distanceMeters": 12116.9033203125,
+        "probability": 0.9793436527252197,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.8931003212928772
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T14:26:30.000+01:00",
+      "endTime": "2025-07-11T14:32:36.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.6841228008270264,
+        "topCandidate": {
+          "placeId": "ChIJ_49Lq4UOZ0gRT1gNAR4XfgE",
+          "semanticType": "UNKNOWN",
+          "probability": 0.39307188987731934,
+          "placeLocation": {
+            "latLng": "53.348591°, -6.258494°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T14:32:36.000+01:00",
+      "endTime": "2025-07-11T15:02:54.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3482312°, -6.2557604°"
+        },
+        "end": {
+          "latLng": "53.3908319°, -6.1968726°"
+        },
+        "distanceMeters": 6263.81689453125,
+        "probability": 0.9887062311172485,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.9155846238136292
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T15:00:00.000+01:00",
+      "endTime": "2025-07-11T17:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.3908319°, -6.1968726°",
+          "time": "2025-07-11T15:03:00.000+01:00"
+        },
+        {
+          "point": "53.3907457°, -6.198439°",
+          "time": "2025-07-11T15:05:00.000+01:00"
+        },
+        {
+          "point": "53.3904222°, -6.1991475°",
+          "time": "2025-07-11T16:47:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-11T15:02:54.000+01:00",
+      "endTime": "2025-07-11T15:05:13.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3908319°, -6.1968726°"
+        },
+        "end": {
+          "latLng": "53.3907457°, -6.198439°"
+        },
+        "distanceMeters": 266.3773498535156,
+        "probability": 0.9836977124214172,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.9165469408035278
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T15:05:13.000+01:00",
+      "endTime": "2025-07-11T20:12:09.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8669447898864746,
+        "topCandidate": {
+          "placeId": "ChIJccNmklAOZ0gREQMI8rnm9Fs",
+          "semanticType": "INFERRED_WORK",
+          "probability": 0.43437227606773376,
+          "placeLocation": {
+            "latLng": "53.3916595°, -6.1995935°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T17:00:00.000+01:00",
+      "endTime": "2025-07-11T19:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.3924259°, -6.2002858°",
+          "time": "2025-07-11T17:18:00.000+01:00"
+        },
+        {
+          "point": "53.3895827°, -6.1973217°",
+          "time": "2025-07-11T18:40:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-11T19:00:00.000+01:00",
+      "endTime": "2025-07-11T21:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.3907386°, -6.1998202°",
+          "time": "2025-07-11T20:05:00.000+01:00"
+        },
+        {
+          "point": "53.3902523°, -6.1974735°",
+          "time": "2025-07-11T20:12:00.000+01:00"
+        },
+        {
+          "point": "53.3908211°, -6.1972597°",
+          "time": "2025-07-11T20:15:00.000+01:00"
+        },
+        {
+          "point": "53.3909129°, -6.1956019°",
+          "time": "2025-07-11T20:27:00.000+01:00"
+        },
+        {
+          "point": "53.3725436°, -6.2220569°",
+          "time": "2025-07-11T20:37:00.000+01:00"
+        },
+        {
+          "point": "53.3648103°, -6.2295076°",
+          "time": "2025-07-11T20:40:00.000+01:00"
+        },
+        {
+          "point": "53.3627358°, -6.2368337°",
+          "time": "2025-07-11T20:43:00.000+01:00"
+        },
+        {
+          "point": "53.3491015°, -6.2513548°",
+          "time": "2025-07-11T20:51:00.000+01:00"
+        },
+        {
+          "point": "53.3482146°, -6.2544851°",
+          "time": "2025-07-11T20:52:00.000+01:00"
+        },
+        {
+          "point": "53.3475812°, -6.2566432°",
+          "time": "2025-07-11T20:54:00.000+01:00"
+        },
+        {
+          "point": "53.348729°, -6.2576965°",
+          "time": "2025-07-11T20:58:00.000+01:00"
+        },
+        {
+          "point": "53.3455538°, -6.2574742°",
+          "time": "2025-07-11T20:59:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-11T20:12:09.000+01:00",
+      "endTime": "2025-07-11T20:15:15.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3902523°, -6.1974735°"
+        },
+        "end": {
+          "latLng": "53.3908211°, -6.1972597°"
+        },
+        "distanceMeters": 298.4594421386719,
+        "probability": 0.9594637155532837,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.8795416355133057
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T20:15:15.000+01:00",
+      "endTime": "2025-07-11T20:26:39.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.6878570318222046,
+        "topCandidate": {
+          "placeId": "ChIJp8fTvMIPZ0gROoxwi2gOQyY",
+          "semanticType": "UNKNOWN",
+          "probability": 0.6284790635108948,
+          "placeLocation": {
+            "latLng": "53.3907898°, -6.1961478°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T20:26:39.000+01:00",
+      "endTime": "2025-07-11T20:54:27.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3909129°, -6.1956019°"
+        },
+        "end": {
+          "latLng": "53.3475812°, -6.2566432°"
+        },
+        "distanceMeters": 6598.08203125,
+        "probability": 0.9704212546348572,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.9182855486869812
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T20:54:27.000+01:00",
+      "endTime": "2025-07-11T20:58:09.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.5412891507148743,
+        "topCandidate": {
+          "placeId": "ChIJjTZyuoUOZ0gRgmPwNiqKrEM",
+          "semanticType": "UNKNOWN",
+          "probability": 0.49802741408348083,
+          "placeLocation": {
+            "latLng": "53.349243°, -6.257731°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T20:58:09.000+01:00",
+      "endTime": "2025-07-11T21:28:43.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.348729°, -6.2576965°"
+        },
+        "end": {
+          "latLng": "53.2770126°, -6.204823°"
+        },
+        "distanceMeters": 10018.6767578125,
+        "probability": 0.9920239448547363,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.844066858291626
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T21:00:00.000+01:00",
+      "endTime": "2025-07-11T23:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.3433597°, -6.2593374°",
+          "time": "2025-07-11T21:02:00.000+01:00"
+        },
+        {
+          "point": "53.3377867°, -6.2626542°",
+          "time": "2025-07-11T21:08:00.000+01:00"
+        },
+        {
+          "point": "53.3276608°, -6.2562142°",
+          "time": "2025-07-11T21:13:00.000+01:00"
+        },
+        {
+          "point": "53.2945298°, -6.2475966°",
+          "time": "2025-07-11T21:21:00.000+01:00"
+        },
+        {
+          "point": "53.2860241°, -6.2365315°",
+          "time": "2025-07-11T21:23:00.000+01:00"
+        },
+        {
+          "point": "53.2770126°, -6.204823°",
+          "time": "2025-07-11T21:29:00.000+01:00"
+        },
+        {
+          "point": "53.2769658°, -6.2048621°",
+          "time": "2025-07-11T21:31:00.000+01:00"
+        },
+        {
+          "point": "53.2700778°, -6.2040023°",
+          "time": "2025-07-11T21:36:00.000+01:00"
+        },
+        {
+          "point": "53.2627801°, -6.2101685°",
+          "time": "2025-07-11T21:39:00.000+01:00"
+        },
+        {
+          "point": "53.2604178°, -6.206859°",
+          "time": "2025-07-11T21:41:00.000+01:00"
+        },
+        {
+          "point": "53.26029°, -6.2074965°",
+          "time": "2025-07-11T21:43:00.000+01:00"
+        },
+        {
+          "point": "53.2602953°, -6.2075155°",
+          "time": "2025-07-11T21:45:00.000+01:00"
+        },
+        {
+          "point": "53.2602918°, -6.207519°",
+          "time": "2025-07-11T21:54:00.000+01:00"
+        },
+        {
+          "point": "53.2602898°, -6.2075151°",
+          "time": "2025-07-11T22:06:00.000+01:00"
+        },
+        {
+          "point": "53.2602935°, -6.2075157°",
+          "time": "2025-07-11T22:17:00.000+01:00"
+        },
+        {
+          "point": "53.2602859°, -6.207311°",
+          "time": "2025-07-11T22:24:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-11T21:28:43.000+01:00",
+      "endTime": "2025-07-11T21:30:56.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.7922826409339905,
+        "topCandidate": {
+          "placeId": "ChIJ06j3pQYJZ0gRgOTtl6SpFSA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.4453982412815094,
+          "placeLocation": {
+            "latLng": "53.2776569°, -6.2046051°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T21:30:56.000+01:00",
+      "endTime": "2025-07-11T21:41:04.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2769658°, -6.2048621°"
+        },
+        "end": {
+          "latLng": "53.2604178°, -6.206859°"
+        },
+        "distanceMeters": 2227.9970703125,
+        "probability": 0.9947404265403748,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.5342756509780884
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-11T21:41:04.000+01:00",
+      "endTime": "2025-07-12T08:15:17.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9312347769737244,
+        "topCandidate": {
+          "placeId": "ChIJEbJjzz4JZ0gR8KI639gRVLg",
+          "semanticType": "INFERRED_HOME",
+          "probability": 0.5262489318847656,
+          "placeLocation": {
+            "latLng": "53.2603683°, -6.2073798°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T07:00:00.000+01:00",
+      "endTime": "2025-07-12T09:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2603042°, -6.2072335°",
+          "time": "2025-07-12T08:15:00.000+01:00"
+        },
+        {
+          "point": "53.2609124°, -6.2062408°",
+          "time": "2025-07-12T08:25:00.000+01:00"
+        },
+        {
+          "point": "53.2631145°, -6.2106659°",
+          "time": "2025-07-12T08:26:00.000+01:00"
+        },
+        {
+          "point": "53.2662373°, -6.2101164°",
+          "time": "2025-07-12T08:27:00.000+01:00"
+        },
+        {
+          "point": "53.2704233°, -6.2033227°",
+          "time": "2025-07-12T08:30:00.000+01:00"
+        },
+        {
+          "point": "53.2775373°, -6.2047454°",
+          "time": "2025-07-12T08:33:00.000+01:00"
+        },
+        {
+          "point": "53.2859678°, -6.2368707°",
+          "time": "2025-07-12T08:39:00.000+01:00"
+        },
+        {
+          "point": "53.2944509°, -6.247661°",
+          "time": "2025-07-12T08:41:00.000+01:00"
+        },
+        {
+          "point": "53.3206717°, -6.254666°",
+          "time": "2025-07-12T08:46:00.000+01:00"
+        },
+        {
+          "point": "53.3306938°, -6.2587316°",
+          "time": "2025-07-12T08:49:00.000+01:00"
+        },
+        {
+          "point": "53.3334085°, -6.2628078°",
+          "time": "2025-07-12T08:52:00.000+01:00"
+        },
+        {
+          "point": "53.3399722°, -6.2605271°",
+          "time": "2025-07-12T08:55:00.000+01:00"
+        },
+        {
+          "point": "53.3425607°, -6.2578002°",
+          "time": "2025-07-12T08:58:00.000+01:00"
+        },
+        {
+          "point": "53.344344°, -6.2595081°",
+          "time": "2025-07-12T08:59:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-12T08:15:17.000+01:00",
+      "endTime": "2025-07-12T08:25:08.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2609205°, -6.205682°"
+        },
+        "end": {
+          "latLng": "53.2609124°, -6.2062408°"
+        },
+        "distanceMeters": 358.8990783691406,
+        "probability": 0.5335218906402588,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.5020624995231628
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T08:25:08.000+01:00",
+      "endTime": "2025-07-12T09:00:37.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2609124°, -6.2062408°"
+        },
+        "end": {
+          "latLng": "53.3467254°, -6.25895°"
+        },
+        "distanceMeters": 11913.84765625,
+        "probability": 0.9980962872505188,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.9398636817932129
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T09:00:00.000+01:00",
+      "endTime": "2025-07-12T11:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.3467254°, -6.25895°",
+          "time": "2025-07-12T09:01:00.000+01:00"
+        },
+        {
+          "point": "53.3481394°, -6.2570429°",
+          "time": "2025-07-12T09:04:00.000+01:00"
+        },
+        {
+          "point": "53.3482554°, -6.2562867°",
+          "time": "2025-07-12T09:14:00.000+01:00"
+        },
+        {
+          "point": "53.3496901°, -6.251215°",
+          "time": "2025-07-12T09:17:00.000+01:00"
+        },
+        {
+          "point": "53.3612649°, -6.238443°",
+          "time": "2025-07-12T09:22:00.000+01:00"
+        },
+        {
+          "point": "53.364349°, -6.2306857°",
+          "time": "2025-07-12T09:25:00.000+01:00"
+        },
+        {
+          "point": "53.3772236°, -6.215702°",
+          "time": "2025-07-12T09:30:00.000+01:00"
+        },
+        {
+          "point": "53.3907231°, -6.1967984°",
+          "time": "2025-07-12T09:36:00.000+01:00"
+        },
+        {
+          "point": "53.3905945°, -6.1985684°",
+          "time": "2025-07-12T09:39:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-12T09:00:37.000+01:00",
+      "endTime": "2025-07-12T09:04:02.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3467254°, -6.25895°"
+        },
+        "end": {
+          "latLng": "53.3481394°, -6.2570429°"
+        },
+        "distanceMeters": 321.15557861328125,
+        "probability": 0.9511469602584839,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.8775205016136169
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T09:04:02.000+01:00",
+      "endTime": "2025-07-12T09:13:57.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9159652590751648,
+        "topCandidate": {
+          "placeId": "ChIJu4uAooUOZ0gRKruhRgmGUYM",
+          "semanticType": "UNKNOWN",
+          "probability": 0.13975673913955688,
+          "placeLocation": {
+            "latLng": "53.3489114°, -6.2568793°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T09:13:57.000+01:00",
+      "endTime": "2025-07-12T09:36:02.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.348562°, -6.2535854°"
+        },
+        "end": {
+          "latLng": "53.3907231°, -6.1967984°"
+        },
+        "distanceMeters": 6142.06689453125,
+        "probability": 0.9977274537086487,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.9470741152763367
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T09:36:02.000+01:00",
+      "endTime": "2025-07-12T09:38:50.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3907231°, -6.1967984°"
+        },
+        "end": {
+          "latLng": "53.3905945°, -6.1985684°"
+        },
+        "distanceMeters": 265.7635498046875,
+        "probability": 0.9783685207366943,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.8746479153633118
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T09:38:50.000+01:00",
+      "endTime": "2025-07-12T13:45:59.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8538181185722351,
+        "topCandidate": {
+          "placeId": "ChIJccNmklAOZ0gREQMI8rnm9Fs",
+          "semanticType": "INFERRED_WORK",
+          "probability": 0.4750083386898041,
+          "placeLocation": {
+            "latLng": "53.3916595°, -6.1995935°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T11:00:00.000+01:00",
+      "endTime": "2025-07-12T13:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.392418°, -6.2003711°",
+          "time": "2025-07-12T11:01:00.000+01:00"
+        },
+        {
+          "point": "53.3902974°, -6.1966048°",
+          "time": "2025-07-12T12:25:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-12T13:00:00.000+01:00",
+      "endTime": "2025-07-12T15:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.3907426°, -6.1998418°",
+          "time": "2025-07-12T13:38:00.000+01:00"
+        },
+        {
+          "point": "53.390524°, -6.1992269°",
+          "time": "2025-07-12T13:46:00.000+01:00"
+        },
+        {
+          "point": "53.3913916°, -6.1981417°",
+          "time": "2025-07-12T13:48:00.000+01:00"
+        },
+        {
+          "point": "53.381251°, -6.2077348°",
+          "time": "2025-07-12T13:56:00.000+01:00"
+        },
+        {
+          "point": "53.3680221°, -6.2269686°",
+          "time": "2025-07-12T14:01:00.000+01:00"
+        },
+        {
+          "point": "53.3644287°, -6.2315877°",
+          "time": "2025-07-12T14:02:00.000+01:00"
+        },
+        {
+          "point": "53.3633929°, -6.234759°",
+          "time": "2025-07-12T14:04:00.000+01:00"
+        },
+        {
+          "point": "53.3562631°, -6.2445318°",
+          "time": "2025-07-12T14:09:00.000+01:00"
+        },
+        {
+          "point": "53.35151°, -6.2500953°",
+          "time": "2025-07-12T14:12:00.000+01:00"
+        },
+        {
+          "point": "53.351133°, -6.2527152°",
+          "time": "2025-07-12T14:13:00.000+01:00"
+        },
+        {
+          "point": "53.3503245°, -6.2570885°",
+          "time": "2025-07-12T14:17:00.000+01:00"
+        },
+        {
+          "point": "53.3481868°, -6.2574617°",
+          "time": "2025-07-12T14:24:00.000+01:00"
+        },
+        {
+          "point": "53.3462765°, -6.2569068°",
+          "time": "2025-07-12T14:26:00.000+01:00"
+        },
+        {
+          "point": "53.3407894°, -6.2583519°",
+          "time": "2025-07-12T14:30:00.000+01:00"
+        },
+        {
+          "point": "53.3376723°, -6.2623744°",
+          "time": "2025-07-12T14:33:00.000+01:00"
+        },
+        {
+          "point": "53.3330207°, -6.2627°",
+          "time": "2025-07-12T14:36:00.000+01:00"
+        },
+        {
+          "point": "53.2887306°, -6.2404036°",
+          "time": "2025-07-12T14:48:00.000+01:00"
+        },
+        {
+          "point": "53.286049°, -6.2365068°",
+          "time": "2025-07-12T14:50:00.000+01:00"
+        },
+        {
+          "point": "53.2806137°, -6.2137622°",
+          "time": "2025-07-12T14:52:00.000+01:00"
+        },
+        {
+          "point": "53.2690071°, -6.2120663°",
+          "time": "2025-07-12T14:59:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-12T13:45:59.000+01:00",
+      "endTime": "2025-07-12T13:48:00.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.390524°, -6.1992269°"
+        },
+        "end": {
+          "latLng": "53.3913916°, -6.1981417°"
+        },
+        "distanceMeters": 141.98692321777344,
+        "probability": 0.9735757112503052,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.8955093622207642
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T13:48:00.000+01:00",
+      "endTime": "2025-07-12T14:12:36.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3913916°, -6.1981417°"
+        },
+        "end": {
+          "latLng": "53.351133°, -6.2527152°"
+        },
+        "distanceMeters": 6512.49951171875,
+        "probability": 0.988219678401947,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.8249414563179016
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T14:12:36.000+01:00",
+      "endTime": "2025-07-12T14:16:47.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.351133°, -6.2527152°"
+        },
+        "end": {
+          "latLng": "53.3503245°, -6.2570885°"
+        },
+        "distanceMeters": 315.0184020996094,
+        "probability": 0.8561452627182007,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.7526440024375916
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T14:16:47.000+01:00",
+      "endTime": "2025-07-12T14:24:23.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8041580319404602,
+        "topCandidate": {
+          "placeId": "ChIJjTZyuoUOZ0gRgmPwNiqKrEM",
+          "semanticType": "UNKNOWN",
+          "probability": 0.43668124079704285,
+          "placeLocation": {
+            "latLng": "53.349243°, -6.257731°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T14:24:23.000+01:00",
+      "endTime": "2025-07-12T15:04:38.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.3481868°, -6.2574617°"
+        },
+        "end": {
+          "latLng": "53.2603088°, -6.2071393°"
+        },
+        "distanceMeters": 12026.998046875,
+        "probability": 0.9974528551101685,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.7831073999404907
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T15:00:00.000+01:00",
+      "endTime": "2025-07-12T17:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2627255°, -6.210103°",
+          "time": "2025-07-12T15:01:00.000+01:00"
+        },
+        {
+          "point": "53.2603088°, -6.2071393°",
+          "time": "2025-07-12T15:05:00.000+01:00"
+        },
+        {
+          "point": "53.2602916°, -6.2075083°",
+          "time": "2025-07-12T15:11:00.000+01:00"
+        },
+        {
+          "point": "53.2602872°, -6.2075097°",
+          "time": "2025-07-12T15:50:00.000+01:00"
+        },
+        {
+          "point": "53.2602942°, -6.2075135°",
+          "time": "2025-07-12T16:18:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-12T15:04:38.000+01:00",
+      "endTime": "2025-07-13T16:36:10.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9494729042053223,
+        "topCandidate": {
+          "placeId": "ChIJEbJjzz4JZ0gR8KI639gRVLg",
+          "semanticType": "INFERRED_HOME",
+          "probability": 0.5756018161773682,
+          "placeLocation": {
+            "latLng": "53.2603683°, -6.2073798°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-12T17:00:00.000+01:00",
+      "endTime": "2025-07-12T19:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602741°, -6.2072792°",
+          "time": "2025-07-12T17:06:00.000+01:00"
+        },
+        {
+          "point": "53.2602901°, -6.2073811°",
+          "time": "2025-07-12T17:29:00.000+01:00"
+        },
+        {
+          "point": "53.2602921°, -6.2075078°",
+          "time": "2025-07-12T17:54:00.000+01:00"
+        },
+        {
+          "point": "53.2602891°, -6.2075033°",
+          "time": "2025-07-12T18:14:00.000+01:00"
+        },
+        {
+          "point": "53.2602891°, -6.2075033°",
+          "time": "2025-07-12T18:24:00.000+01:00"
+        },
+        {
+          "point": "53.2602848°, -6.2075189°",
+          "time": "2025-07-12T18:34:00.000+01:00"
+        },
+        {
+          "point": "53.2602893°, -6.2075155°",
+          "time": "2025-07-12T18:44:00.000+01:00"
+        },
+        {
+          "point": "53.2602664°, -6.2076955°",
+          "time": "2025-07-12T18:56:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-12T19:00:00.000+01:00",
+      "endTime": "2025-07-12T21:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602909°, -6.2075128°",
+          "time": "2025-07-12T19:04:00.000+01:00"
+        },
+        {
+          "point": "53.2602885°, -6.2075119°",
+          "time": "2025-07-12T19:13:00.000+01:00"
+        },
+        {
+          "point": "53.2602973°, -6.2075115°",
+          "time": "2025-07-12T19:18:00.000+01:00"
+        },
+        {
+          "point": "53.2602961°, -6.2075222°",
+          "time": "2025-07-12T19:23:00.000+01:00"
+        },
+        {
+          "point": "53.2602892°, -6.2075206°",
+          "time": "2025-07-12T19:29:00.000+01:00"
+        },
+        {
+          "point": "53.2602892°, -6.2073962°",
+          "time": "2025-07-12T19:37:00.000+01:00"
+        },
+        {
+          "point": "53.2602792°, -6.207274°",
+          "time": "2025-07-12T19:43:00.000+01:00"
+        },
+        {
+          "point": "53.2602811°, -6.2073392°",
+          "time": "2025-07-12T19:54:00.000+01:00"
+        },
+        {
+          "point": "53.2602835°, -6.2072984°",
+          "time": "2025-07-12T20:07:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072725°",
+          "time": "2025-07-12T20:25:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072725°",
+          "time": "2025-07-12T20:36:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072725°",
+          "time": "2025-07-12T20:48:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-12T21:00:00.000+01:00",
+      "endTime": "2025-07-12T23:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602769°, -6.2072725°",
+          "time": "2025-07-12T21:02:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072725°",
+          "time": "2025-07-12T21:18:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072725°",
+          "time": "2025-07-12T21:30:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072725°",
+          "time": "2025-07-12T21:41:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072725°",
+          "time": "2025-07-12T21:55:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072725°",
+          "time": "2025-07-12T22:12:00.000+01:00"
+        },
+        {
+          "point": "53.2602769°, -6.2072725°",
+          "time": "2025-07-12T22:24:00.000+01:00"
+        },
+        {
+          "point": "53.2602765°, -6.2072834°",
+          "time": "2025-07-12T22:42:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-12T23:00:00.000+01:00",
+      "endTime": "2025-07-13T01:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602765°, -6.2072834°",
+          "time": "2025-07-12T23:07:00.000+01:00"
+        },
+        {
+          "point": "53.2602765°, -6.2072834°",
+          "time": "2025-07-12T23:32:00.000+01:00"
+        },
+        {
+          "point": "53.2602778°, -6.2072866°",
+          "time": "2025-07-12T23:38:00.000+01:00"
+        },
+        {
+          "point": "53.2602763°, -6.2072855°",
+          "time": "2025-07-12T23:57:00.000+01:00"
+        },
+        {
+          "point": "53.2602774°, -6.2072868°",
+          "time": "2025-07-13T00:04:00.000+01:00"
+        },
+        {
+          "point": "53.2602774°, -6.2072868°",
+          "time": "2025-07-13T00:18:00.000+01:00"
+        },
+        {
+          "point": "53.2602774°, -6.2072868°",
+          "time": "2025-07-13T00:38:00.000+01:00"
+        },
+        {
+          "point": "53.2602774°, -6.2072868°",
+          "time": "2025-07-13T00:51:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-13T01:00:00.000+01:00",
+      "endTime": "2025-07-13T03:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602774°, -6.2072868°",
+          "time": "2025-07-13T01:33:00.000+01:00"
+        },
+        {
+          "point": "53.2602774°, -6.2072868°",
+          "time": "2025-07-13T01:41:00.000+01:00"
+        },
+        {
+          "point": "53.2602784°, -6.2072786°",
+          "time": "2025-07-13T01:53:00.000+01:00"
+        },
+        {
+          "point": "53.2602784°, -6.2072786°",
+          "time": "2025-07-13T02:03:00.000+01:00"
+        },
+        {
+          "point": "53.2602784°, -6.2072786°",
+          "time": "2025-07-13T02:14:00.000+01:00"
+        },
+        {
+          "point": "53.2602784°, -6.2072786°",
+          "time": "2025-07-13T02:34:00.000+01:00"
+        },
+        {
+          "point": "53.2602784°, -6.2072786°",
+          "time": "2025-07-13T02:44:00.000+01:00"
+        },
+        {
+          "point": "53.2602784°, -6.2072786°",
+          "time": "2025-07-13T02:51:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-13T03:00:00.000+01:00",
+      "endTime": "2025-07-13T05:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602771°, -6.2072796°",
+          "time": "2025-07-13T03:10:00.000+01:00"
+        },
+        {
+          "point": "53.2602771°, -6.2072796°",
+          "time": "2025-07-13T03:50:00.000+01:00"
+        },
+        {
+          "point": "53.2602771°, -6.2072796°",
+          "time": "2025-07-13T04:10:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-13T05:00:00.000+01:00",
+      "endTime": "2025-07-13T07:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602771°, -6.2072796°",
+          "time": "2025-07-13T05:02:00.000+01:00"
+        },
+        {
+          "point": "53.2602771°, -6.2072796°",
+          "time": "2025-07-13T05:28:00.000+01:00"
+        },
+        {
+          "point": "53.2602771°, -6.2072796°",
+          "time": "2025-07-13T05:51:00.000+01:00"
+        },
+        {
+          "point": "53.2602771°, -6.2072796°",
+          "time": "2025-07-13T06:05:00.000+01:00"
+        },
+        {
+          "point": "53.2602771°, -6.2072796°",
+          "time": "2025-07-13T06:16:00.000+01:00"
+        },
+        {
+          "point": "53.2602792°, -6.2072768°",
+          "time": "2025-07-13T06:23:00.000+01:00"
+        },
+        {
+          "point": "53.2602792°, -6.2072768°",
+          "time": "2025-07-13T06:27:00.000+01:00"
+        },
+        {
+          "point": "53.2602792°, -6.2072768°",
+          "time": "2025-07-13T06:37:00.000+01:00"
+        },
+        {
+          "point": "53.2602721°, -6.2072864°",
+          "time": "2025-07-13T06:47:00.000+01:00"
+        },
+        {
+          "point": "53.2602721°, -6.2072864°",
+          "time": "2025-07-13T06:57:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-13T07:00:00.000+01:00",
+      "endTime": "2025-07-13T09:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602946°, -6.2075032°",
+          "time": "2025-07-13T07:01:00.000+01:00"
+        },
+        {
+          "point": "53.2602946°, -6.2075032°",
+          "time": "2025-07-13T07:07:00.000+01:00"
+        },
+        {
+          "point": "53.2602906°, -6.2075172°",
+          "time": "2025-07-13T07:16:00.000+01:00"
+        },
+        {
+          "point": "53.2602906°, -6.2075172°",
+          "time": "2025-07-13T07:17:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-13T15:00:00.000+01:00",
+      "endTime": "2025-07-13T17:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2603109°, -6.2072544°",
+          "time": "2025-07-13T16:36:00.000+01:00"
+        },
+        {
+          "point": "53.2610589°, -6.2058823°",
+          "time": "2025-07-13T16:41:00.000+01:00"
+        },
+        {
+          "point": "53.2662877°, -6.2100601°",
+          "time": "2025-07-13T16:43:00.000+01:00"
+        },
+        {
+          "point": "53.2723084°, -6.2010295°",
+          "time": "2025-07-13T16:45:00.000+01:00"
+        },
+        {
+          "point": "53.2741301°, -6.2039186°",
+          "time": "2025-07-13T16:46:00.000+01:00"
+        },
+        {
+          "point": "53.2775114°, -6.204997°",
+          "time": "2025-07-13T16:49:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-13T16:36:10.000+01:00",
+      "endTime": "2025-07-13T16:41:18.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2603109°, -6.2072544°"
+        },
+        "end": {
+          "latLng": "53.2610589°, -6.2058823°"
+        },
+        "distanceMeters": 310.1839599609375,
+        "probability": 0.9444925785064697,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.5922974348068237
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T16:41:18.000+01:00",
+      "endTime": "2025-07-13T16:49:13.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2615471°, -6.2079069°"
+        },
+        "end": {
+          "latLng": "53.2775114°, -6.204997°"
+        },
+        "distanceMeters": 2258.075439453125,
+        "probability": 0.9920595288276672,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.9197240471839905
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T16:49:13.000+01:00",
+      "endTime": "2025-07-13T17:06:29.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9750199317932129,
+        "topCandidate": {
+          "placeId": "ChIJ06j3pQYJZ0gRgOTtl6SpFSA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.5706823468208313,
+          "placeLocation": {
+            "latLng": "53.2776569°, -6.2046051°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T17:00:00.000+01:00",
+      "endTime": "2025-07-13T19:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2778142°, -6.2053078°",
+          "time": "2025-07-13T17:06:00.000+01:00"
+        },
+        {
+          "point": "53.2738409°, -6.2032379°",
+          "time": "2025-07-13T17:08:00.000+01:00"
+        },
+        {
+          "point": "53.2783308°, -6.1854507°",
+          "time": "2025-07-13T17:12:00.000+01:00"
+        },
+        {
+          "point": "53.2928042°, -6.1715711°",
+          "time": "2025-07-13T17:16:00.000+01:00"
+        },
+        {
+          "point": "53.2907167°, -6.1728596°",
+          "time": "2025-07-13T18:21:00.000+01:00"
+        },
+        {
+          "point": "53.2924218°, -6.1702722°",
+          "time": "2025-07-13T18:42:00.000+01:00"
+        },
+        {
+          "point": "53.2896627°, -6.174028°",
+          "time": "2025-07-13T18:45:00.000+01:00"
+        },
+        {
+          "point": "53.2811564°, -6.1814116°",
+          "time": "2025-07-13T18:49:00.000+01:00"
+        },
+        {
+          "point": "53.2669291°, -6.1805186°",
+          "time": "2025-07-13T18:54:00.000+01:00"
+        },
+        {
+          "point": "53.2768651°, -6.2077448°",
+          "time": "2025-07-13T18:59:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-13T17:06:29.000+01:00",
+      "endTime": "2025-07-13T17:15:47.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2778142°, -6.2053078°"
+        },
+        "end": {
+          "latLng": "53.2928042°, -6.1715711°"
+        },
+        "distanceMeters": 3632.6484375,
+        "probability": 0.9967613220214844,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.8376256227493286
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T17:15:47.000+01:00",
+      "endTime": "2025-07-13T18:42:28.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.6682609915733337,
+        "topCandidate": {
+          "placeId": "ChIJo6u9y5QIZ0gR1uhXFRXDbjE",
+          "semanticType": "UNKNOWN",
+          "probability": 0.6690167188644409,
+          "placeLocation": {
+            "latLng": "53.2917095°, -6.1716819°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T18:42:28.000+01:00",
+      "endTime": "2025-07-13T18:59:11.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2924218°, -6.1702722°"
+        },
+        "end": {
+          "latLng": "53.2768651°, -6.2077448°"
+        },
+        "distanceMeters": 5170.861328125,
+        "probability": 0.989575982093811,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.8552363514900208
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T18:59:11.000+01:00",
+      "endTime": "2025-07-13T19:13:34.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.6119663119316101,
+        "topCandidate": {
+          "placeId": "ChIJ06j3pQYJZ0gRgOTtl6SpFSA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.6340409517288208,
+          "placeLocation": {
+            "latLng": "53.2776569°, -6.2046051°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T19:00:00.000+01:00",
+      "endTime": "2025-07-13T21:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2771803°, -6.2047478°",
+          "time": "2025-07-13T19:03:00.000+01:00"
+        },
+        {
+          "point": "53.2759214°, -6.202689°",
+          "time": "2025-07-13T19:14:00.000+01:00"
+        },
+        {
+          "point": "53.2663293°, -6.2099142°",
+          "time": "2025-07-13T19:17:00.000+01:00"
+        },
+        {
+          "point": "53.2607015°, -6.2062742°",
+          "time": "2025-07-13T19:20:00.000+01:00"
+        },
+        {
+          "point": "53.2604309°, -6.2069809°",
+          "time": "2025-07-13T19:29:00.000+01:00"
+        },
+        {
+          "point": "53.2601906°, -6.2038678°",
+          "time": "2025-07-13T19:31:00.000+01:00"
+        },
+        {
+          "point": "53.2585472°, -6.1993892°",
+          "time": "2025-07-13T19:33:00.000+01:00"
+        },
+        {
+          "point": "53.2583493°, -6.1975031°",
+          "time": "2025-07-13T19:34:00.000+01:00"
+        },
+        {
+          "point": "53.2591585°, -6.1974507°",
+          "time": "2025-07-13T19:42:00.000+01:00"
+        },
+        {
+          "point": "53.2585759°, -6.1987196°",
+          "time": "2025-07-13T19:51:00.000+01:00"
+        },
+        {
+          "point": "53.2593566°, -6.2012897°",
+          "time": "2025-07-13T19:56:00.000+01:00"
+        },
+        {
+          "point": "53.2601029°, -6.2061831°",
+          "time": "2025-07-13T20:01:00.000+01:00"
+        },
+        {
+          "point": "53.2602884°, -6.2075261°",
+          "time": "2025-07-13T20:05:00.000+01:00"
+        },
+        {
+          "point": "53.2602902°, -6.2075074°",
+          "time": "2025-07-13T20:19:00.000+01:00"
+        },
+        {
+          "point": "53.2602902°, -6.2075074°",
+          "time": "2025-07-13T20:36:00.000+01:00"
+        },
+        {
+          "point": "53.2602909°, -6.2075097°",
+          "time": "2025-07-13T20:48:00.000+01:00"
+        },
+        {
+          "point": "53.2602909°, -6.2075097°",
+          "time": "2025-07-13T21:00:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-13T19:13:34.000+01:00",
+      "endTime": "2025-07-13T19:20:05.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2759214°, -6.202689°"
+        },
+        "end": {
+          "latLng": "53.2607015°, -6.2062742°"
+        },
+        "distanceMeters": 1840.7957763671875,
+        "probability": 0.9962143898010254,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.9218024015426636
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T19:20:05.000+01:00",
+      "endTime": "2025-07-13T19:29:07.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.6763997673988342,
+        "topCandidate": {
+          "placeId": "ChIJ18tcGrAJZ0gRjE006_zjcgI",
+          "semanticType": "UNKNOWN",
+          "probability": 0.38927584886550903,
+          "placeLocation": {
+            "latLng": "53.261063°, -6.205947°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T19:29:07.000+01:00",
+      "endTime": "2025-07-13T19:34:25.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2604309°, -6.2069809°"
+        },
+        "end": {
+          "latLng": "53.2583493°, -6.1975031°"
+        },
+        "distanceMeters": 708.60009765625,
+        "probability": 0.9787550568580627,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.9374954104423523
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T19:34:25.000+01:00",
+      "endTime": "2025-07-13T19:51:27.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8911945819854736,
+        "topCandidate": {
+          "placeId": "ChIJC52Aq7MJZ0gRPImsWfjf-ks",
+          "semanticType": "UNKNOWN",
+          "probability": 0.9131429195404053,
+          "placeLocation": {
+            "latLng": "53.2592726°, -6.1968808°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T19:34:25.000+01:00",
+      "endTime": "2025-07-13T19:51:27.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.8911945819854736,
+        "topCandidate": {
+          "placeId": "ChIJnV08tLMJZ0gRkXILWzwLPuM",
+          "semanticType": "UNKNOWN",
+          "probability": 0.9862397909164429,
+          "placeLocation": {
+            "latLng": "53.2591361°, -6.1973242°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T19:51:27.000+01:00",
+      "endTime": "2025-07-13T20:00:43.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2585759°, -6.1987196°"
+        },
+        "end": {
+          "latLng": "53.2601029°, -6.2061831°"
+        },
+        "distanceMeters": 1040.45166015625,
+        "probability": 0.9980632662773132,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.9867411255836487
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T20:00:43.000+01:00",
+      "endTime": "2025-07-14T10:16:03.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8929954767227173,
+        "topCandidate": {
+          "placeId": "ChIJEbJjzz4JZ0gR8KI639gRVLg",
+          "semanticType": "INFERRED_HOME",
+          "probability": 0.5645664930343628,
+          "placeLocation": {
+            "latLng": "53.2603683°, -6.2073798°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-13T21:00:00.000+01:00",
+      "endTime": "2025-07-13T23:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602909°, -6.2075097°",
+          "time": "2025-07-13T21:11:00.000+01:00"
+        },
+        {
+          "point": "53.2602909°, -6.2075097°",
+          "time": "2025-07-13T21:16:00.000+01:00"
+        },
+        {
+          "point": "53.2602908°, -6.2075117°",
+          "time": "2025-07-13T21:30:00.000+01:00"
+        },
+        {
+          "point": "53.2602908°, -6.2075117°",
+          "time": "2025-07-13T21:41:00.000+01:00"
+        },
+        {
+          "point": "53.2602908°, -6.2075117°",
+          "time": "2025-07-13T21:55:00.000+01:00"
+        },
+        {
+          "point": "53.2602908°, -6.2075117°",
+          "time": "2025-07-13T22:00:00.000+01:00"
+        },
+        {
+          "point": "53.2602912°, -6.2075005°",
+          "time": "2025-07-13T22:11:00.000+01:00"
+        },
+        {
+          "point": "53.2602912°, -6.2075005°",
+          "time": "2025-07-13T22:18:00.000+01:00"
+        },
+        {
+          "point": "53.2602695°, -6.2074522°",
+          "time": "2025-07-13T22:30:00.000+01:00"
+        },
+        {
+          "point": "53.2602776°, -6.2073804°",
+          "time": "2025-07-13T22:34:00.000+01:00"
+        },
+        {
+          "point": "53.2602776°, -6.2073804°",
+          "time": "2025-07-13T22:37:00.000+01:00"
+        },
+        {
+          "point": "53.2602693°, -6.2073927°",
+          "time": "2025-07-13T22:42:00.000+01:00"
+        },
+        {
+          "point": "53.2602821°, -6.2072766°",
+          "time": "2025-07-13T22:48:00.000+01:00"
+        },
+        {
+          "point": "53.2602792°, -6.2072839°",
+          "time": "2025-07-13T22:55:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-13T23:00:00.000+01:00",
+      "endTime": "2025-07-14T01:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602734°, -6.207279°",
+          "time": "2025-07-13T23:04:00.000+01:00"
+        },
+        {
+          "point": "53.2602776°, -6.2072895°",
+          "time": "2025-07-13T23:35:00.000+01:00"
+        },
+        {
+          "point": "53.2602776°, -6.2072895°",
+          "time": "2025-07-13T23:46:00.000+01:00"
+        },
+        {
+          "point": "53.2602776°, -6.2072895°",
+          "time": "2025-07-14T00:00:00.000+01:00"
+        },
+        {
+          "point": "53.2602776°, -6.2072895°",
+          "time": "2025-07-14T00:12:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-14T01:00:00.000+01:00",
+      "endTime": "2025-07-14T03:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602776°, -6.2072895°",
+          "time": "2025-07-14T01:13:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-14T07:00:00.000+01:00",
+      "endTime": "2025-07-14T09:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602964°, -6.2075232°",
+          "time": "2025-07-14T07:09:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-14T09:00:00.000+01:00",
+      "endTime": "2025-07-14T11:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2602869°, -6.2075269°",
+          "time": "2025-07-14T10:16:00.000+01:00"
+        },
+        {
+          "point": "53.2609646°, -6.2059658°",
+          "time": "2025-07-14T10:24:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-14T10:16:03.000+01:00",
+      "endTime": "2025-07-14T10:23:40.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2602869°, -6.2075269°"
+        },
+        "end": {
+          "latLng": "53.2609646°, -6.2059658°"
+        },
+        "distanceMeters": 584.3204345703125,
+        "probability": 0.9677071571350098,
+        "topCandidate": {
+          "type": "CYCLING",
+          "probability": 0.45299139618873596
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T10:23:40.000+01:00",
+      "endTime": "2025-07-14T13:49:10.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.7942224144935608,
+        "topCandidate": {
+          "placeId": "ChIJ18tcGrAJZ0gRjE006_zjcgI",
+          "semanticType": "UNKNOWN",
+          "probability": 0.4597972333431244,
+          "placeLocation": {
+            "latLng": "53.261063°, -6.205947°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T13:00:00.000+01:00",
+      "endTime": "2025-07-14T15:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2603097°, -6.2072276°",
+          "time": "2025-07-14T13:49:00.000+01:00"
+        },
+        {
+          "point": "53.2611192°, -6.2059369°",
+          "time": "2025-07-14T13:57:00.000+01:00"
+        },
+        {
+          "point": "53.2565816°, -6.1910604°",
+          "time": "2025-07-14T14:02:00.000+01:00"
+        },
+        {
+          "point": "53.2482534°, -6.1489391°",
+          "time": "2025-07-14T14:09:00.000+01:00"
+        },
+        {
+          "point": "53.242972°, -6.1426617°",
+          "time": "2025-07-14T14:10:00.000+01:00"
+        },
+        {
+          "point": "53.2444228°, -6.1390751°",
+          "time": "2025-07-14T14:19:00.000+01:00"
+        },
+        {
+          "point": "53.2441733°, -6.1391731°",
+          "time": "2025-07-14T14:22:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-14T13:49:10.000+01:00",
+      "endTime": "2025-07-14T13:56:45.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2603097°, -6.2072276°"
+        },
+        "end": {
+          "latLng": "53.2611192°, -6.2059369°"
+        },
+        "distanceMeters": 293.79241943359375,
+        "probability": 0.8966454267501831,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.821611225605011
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T13:56:45.000+01:00",
+      "endTime": "2025-07-14T14:10:16.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2611192°, -6.2059369°"
+        },
+        "end": {
+          "latLng": "53.242972°, -6.1426617°"
+        },
+        "distanceMeters": 5007.57421875,
+        "probability": 0.995270311832428,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.9457130432128906
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T14:10:16.000+01:00",
+      "endTime": "2025-07-14T14:22:18.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2438201°, -6.1403329°"
+        },
+        "end": {
+          "latLng": "53.2441733°, -6.1391731°"
+        },
+        "distanceMeters": 225.8707275390625,
+        "probability": 0.6961883306503296,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.6311430335044861
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T14:22:18.000+01:00",
+      "endTime": "2025-07-14T16:29:59.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.978432834148407,
+        "topCandidate": {
+          "placeId": "ChIJBfKEWAgIZ0gR_zyIomkREkM",
+          "semanticType": "UNKNOWN",
+          "probability": 0.8859336376190186,
+          "placeLocation": {
+            "latLng": "53.2444708°, -6.1396347°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T14:22:18.000+01:00",
+      "endTime": "2025-07-14T16:29:59.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.978432834148407,
+        "topCandidate": {
+          "placeId": "ChIJp-U3uwgIZ0gRS3SzyTBzUE0",
+          "semanticType": "UNKNOWN",
+          "probability": 0.8210955262184143,
+          "placeLocation": {
+            "latLng": "53.2440249°, -6.1391418°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T15:00:00.000+01:00",
+      "endTime": "2025-07-14T17:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2443931°, -6.1391397°",
+          "time": "2025-07-14T16:30:00.000+01:00"
+        },
+        {
+          "point": "53.2425386°, -6.142442°",
+          "time": "2025-07-14T16:36:00.000+01:00"
+        },
+        {
+          "point": "53.2452746°, -6.1450736°",
+          "time": "2025-07-14T16:40:00.000+01:00"
+        },
+        {
+          "point": "53.2453782°, -6.145907°",
+          "time": "2025-07-14T16:45:00.000+01:00"
+        },
+        {
+          "point": "53.2506385°, -6.1551725°",
+          "time": "2025-07-14T16:49:00.000+01:00"
+        },
+        {
+          "point": "53.2564977°, -6.1909635°",
+          "time": "2025-07-14T16:54:00.000+01:00"
+        },
+        {
+          "point": "53.2583536°, -6.1977802°",
+          "time": "2025-07-14T16:57:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-14T16:29:59.000+01:00",
+      "endTime": "2025-07-14T16:40:05.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2431129°, -6.140285°"
+        },
+        "end": {
+          "latLng": "53.2452746°, -6.1450736°"
+        },
+        "distanceMeters": 556.2169189453125,
+        "probability": 0.9929656386375427,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.9216715097427368
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T16:40:05.000+01:00",
+      "endTime": "2025-07-14T16:44:56.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.6378083825111389,
+        "topCandidate": {
+          "placeId": "ChIJh4FKyA8IZ0gRVCIHfKuBBTA",
+          "semanticType": "UNKNOWN",
+          "probability": 0.4617866277694702,
+          "placeLocation": {
+            "latLng": "53.245399°, -6.145897°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T16:44:56.000+01:00",
+      "endTime": "2025-07-14T16:56:33.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2453782°, -6.145907°"
+        },
+        "end": {
+          "latLng": "53.2583536°, -6.1977802°"
+        },
+        "distanceMeters": 3867.36279296875,
+        "probability": 0.9965546131134033,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.909139096736908
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T16:56:33.000+01:00",
+      "endTime": "2025-07-14T17:33:19.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8234248757362366,
+        "topCandidate": {
+          "placeId": "ChIJC52Aq7MJZ0gRPImsWfjf-ks",
+          "semanticType": "UNKNOWN",
+          "probability": 0.9153931736946106,
+          "placeLocation": {
+            "latLng": "53.2592726°, -6.1968808°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T16:56:33.000+01:00",
+      "endTime": "2025-07-14T17:33:19.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "visit": {
+        "hierarchyLevel": 1,
+        "probability": 0.8234248757362366,
+        "topCandidate": {
+          "placeId": "ChIJnV08tLMJZ0gRkXILWzwLPuM",
+          "semanticType": "UNKNOWN",
+          "probability": 0.9629284143447876,
+          "placeLocation": {
+            "latLng": "53.2591361°, -6.1973242°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-07-14T17:00:00.000+01:00",
+      "endTime": "2025-07-14T19:00:00.000+01:00",
+      "timelinePath": [
+        {
+          "point": "53.2582523°, -6.1979103°",
+          "time": "2025-07-14T17:33:00.000+01:00"
+        },
+        {
+          "point": "53.2608599°, -6.2052071°",
+          "time": "2025-07-14T17:37:00.000+01:00"
+        },
+        {
+          "point": "53.2605323°, -6.2064108°",
+          "time": "2025-07-14T17:38:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-07-14T17:33:19.000+01:00",
+      "endTime": "2025-07-14T17:38:15.000+01:00",
+      "startTimeTimezoneUtcOffsetMinutes": 60,
+      "endTimeTimezoneUtcOffsetMinutes": 60,
+      "activity": {
+        "start": {
+          "latLng": "53.2582523°, -6.1979103°"
+        },
+        "end": {
+          "latLng": "53.2608599°, -6.2052071°"
+        },
+        "distanceMeters": 565.4288330078125,
+        "probability": 0.9993045330047607,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.8979763984680176
+        }
+      }
+    }
+  ],
+  "rawSignals": [],
+  "userLocationProfile": {}
+}
